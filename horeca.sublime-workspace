@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"t",
+				"totaal5"
+			],
+			[
+				"nu",
+				"number2"
+			],
+			[
+				"n",
+				"number2"
+			],
+			[
+				"num",
+				"number1"
+			],
+			[
+				"numer",
+				"number1"
+			],
+			[
+				"number",
+				"number2"
+			],
+			[
+				"je",
+				"jeHoofd"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"gir",
+				"grid-area\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"gri-templ",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"marign",
+				"margin-left\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"gri",
+				"grid-area\tproperty"
+			],
+			[
+				"gr",
+				"grid-area\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"move",
+				"moveRight"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"im",
+				"border-image-width\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"grid",
+				"grid-container"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"obje",
+				"object-fit\tproperty"
+			],
+			[
+				"grid-co",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"mari",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mov",
+				"moveBlock"
+			],
+			[
+				"m",
+				"moveBlock"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"start",
+				"startknop"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"un",
+				"unset\ttext-decoration"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"pi",
+				"pizzaSmallToppings"
+			],
+			[
+				"pizza",
+				"pizzaSmallToppings"
+			],
+			[
+				"champgnons",
+				"champignonsToppingPrijs"
+			],
+			[
+				"pizzala",
+				"pizzaLargePrijs"
+			],
+			[
+				"pizzam",
+				"pizzaMediumPrijs"
+			],
+			[
+				"piz",
+				"pizzaSmallPrijs"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"blo",
+				"inline-block\tdisplay"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"b",
+				"bold\tfont-weight"
+			],
+			[
+				"fotn",
+				"font-family\tproperty"
+			],
+			[
+				"bold",
+				"bolder\tfont-weight"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"p",
+				"pre-line\twhite-space"
+			],
+			[
+				"bord",
+				"border-color\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"d",
+				"double\tborder-style"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"l",
+				"line-height\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"bacground",
+				"background-repeat\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"bodr",
+				"border-color\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"prompt",
+				"prompt1"
+			],
+			[
+				"re",
+				"repeat-y\tbackground-repeat"
+			],
+			[
+				"img",
+				"background-image\tproperty"
+			],
+			[
+				"R",
+				"ridge\tborder"
+			],
+			[
+				"A",
+				"transparent\tborder"
+			],
+			[
+				"seri",
+				"sans-serif\tfont-family"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"pr",
+				"prompt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Khize/Desktop/SCHOOL/tests/functions.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/gridoverall/OverallGridStyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/gridoverall/OverallGrid.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/overall/OverallAuto's.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/overall/OverallKleding.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/overall/OverallGridStyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/overall/OverallGrid.html",
+		"/C/Users/Khize/Desktop/SCHOOL/tests/horeca.js",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/overall grid/OverallGrid.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/overall grid/OverallAuto's.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/overall grid/OverallKleding.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W7O1-Overall-Grid-master/overall grid/OverallGridStyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/tests/NavigationBar.html",
+		"/C/Users/Khize/Desktop/SCHOOL/tests/navigationbar.css",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/The-Game/DeGame/DeGame.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/The-Game/DeGame/DeGame.js",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/The-Game/DeGame/DeGame.css",
+		"/C/Users/Khize/OneDrive/Documents/dag.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018/oefening13.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018/oefening9.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018/oefening11.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018/oefening12.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018/oefening7.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018/oefening10.html",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/grid/ADLabstyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/grid/ADLab.html",
+		"/C/Users/Khize/Desktop/SCHOOL/tests/gridoefeningen.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/namaakOpdracht/namaakOpdrachtStyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/gridoefeningen",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/images/net-binnen.jpg",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/namaakOpdracht/namaakOpdracht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/ADLabstyle..css",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/ADLab.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018/ADLab.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018/oefening8.html",
+		"/C/Users/Khize/Desktop/SCHOOL/Forks/robotarm-js-2018-master/test.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018-master/test.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018-master/voorbeeld.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/robotarm-js-2018-master/robot-arm.js",
+		"/C/Users/Khize/Desktop/SCHOOL/tests/DeRekenSpel.html",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/DeGame/DeGame.html",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/DeGame/DeGame.css",
+		"/C/Users/Khize/Desktop/SCHOOL/Opdrachten/DeGame/DeGame.js",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/pizza opdracht/PizzaOpdracht.js",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/DeGame.html",
+		"/C/Users/Khize/Desktop/SCHOOL/CSS/namaakOpdrachtStyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/namaakOpdracht/voorgerecht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/namaakOpdracht/nagerecht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/tests/pagina3.html",
+		"/C/Users/Khize/Desktop/SCHOOL/tests/pagina2.html",
+		"/C/Users/Khize/Desktop/SCHOOL/tests/pagina1.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/namaakOpdracht/voorgerecht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/namaakOpdracht/nagerecht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/namaakOpdracht/namaakOpdracht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/namaakOpdracht/navigationbar.html",
+		"/C/Users/Khize/Desktop/SCHOOL/CSS/LabContentInTheBoxStyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/LabContentInTheBox.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/namaakOpdracht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W3O1-Wie-ben-ik/WieBenIkStyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W3O1-Wie-ben-ik/WieBenIk.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/LabCon",
+		"/C/Users/Khize/Desktop/SCHOOL/CSS's/LabContentInTheBox.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's,CSS/namaakOpdracht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W3O1-Wie-ben-ik/Motivatie.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W3O1-Wie-ben-ik/naOpleiding.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W3O1-Wie-ben-ik/Ontwikkelpunten.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W3O1-Wie-ben-ik/Vooropleiding.html",
+		"/C/Users/Khize/OneDrive/Documents/FlashBack Movies/Untitled.fbr",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's,CSS/WieBenIk2/Vooropleiding.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's,CSS/WieBenIk2/Ontwikkelpunten.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's,CSS/WieBenIk2/naOpleiding.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's,CSS/WieBenIk2/Motivatie.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's,CSS/WieBenIk2/StyleWieBenIk2.css",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's,CSS/WieBenIk2/WieBenIk2.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W3O1-Wie-ben-ik/StyleWieBenIk2.css",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/WieBenIk2.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/B1W3O1-Wie-ben-ik/WieBenIk2.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/pizza opdracht/Pizza Opdracht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/pizza opdracht/pizza/PizzaOpdracht.js",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/week_2_opdracht_pizza_calc.html",
+		"/C/Users/Khize/Desktop/SCHOOL/clones/The-Game/DeRekenSpel.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/DeRekenSpel.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/styleReken.css",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/WieBenIk.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/WieBenIkStyle.css",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/nuria.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/nuria",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/index.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/style.css",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/Pizza Opdracht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/Gemma.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/DeRekenspel.html",
+		"/C/Users/Khize/Desktop/SCHOOL/js/DeKaasOpdracht.js",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/timer.html",
+		"/C/Users/Khize/Desktop/a.js",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/kaasopdracht.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/js/logic.js",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/vieropeenrij.html",
+		"/C/Users/Khize/Desktop/SCHOOL/js/logic.js",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/KRANTENARTIKEL.html",
+		"/C/Users/Khize/Desktop/SCHOOL/HTML's/Style2.css",
+		"/C/Users/Khize/Desktop/HTML's/Categories of operators.html",
+		"/C/Users/Khize/Desktop/HTML's/hoi.html",
+		"/C/Users/Khize/Desktop/HTML's/html.html",
+		"/C/Users/Khize/Desktop/HTML's/ALLE TAGS.html",
+		"/C/Users/Khize/Desktop/HTML's/KRANTENARTIKEL.html",
+		"/C/Users/Khize/Desktop/HTML's/style.css",
+		"/C/Users/Khize/Desktop/SCHOOL/Forks/LAB3-Krantenartikel-master/css/style.css",
+		"/C/Users/Khize/Desktop/HTML's/Lab2.html",
+		"/C/Users/Khize/Desktop/HTML's/week_2_opdracht_pizza_calc.html",
+		"/C/Users/Khize/Downloads/Pizza_opdracht.html",
+		"/C/Users/Khize/Downloads/openhardwaremonitor-v0.8.0-beta.zip",
+		"/C/Users/Khize/Desktop/HTML's/SUBLIME.html",
+		"/C/Users/Khize/Desktop/HTML's/test.html",
+		"/C/Users/Khize/Desktop/HTML's/TAFEL VAN 6.html",
+		"/C/Users/Khize/Desktop/HTML's/another.html",
+		"/C/Users/Khize/Desktop/HTML's/My First JavaScript.html",
+		"/C/Users/Khize/test.html",
+		"/C/Users/Khize/Categories of operators.js",
+		"/C/Users/Khize/test",
+		"/C/Users/Khize/hoi.html",
+		"/C/Users/Khize/SUBLIME.html",
+		"/C/Users/Khize/My First JavaScript.html",
+		"/C/Users/Khize/REKENMACHINE.html",
+		"/C/Users/Khize/Desktop/tafel6.html",
+		"/C/Users/Khize/typeles.html",
+		"/C/Users/Khize/TAFEL VAN 6.html",
+		"/D/sublime"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "horeca.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
